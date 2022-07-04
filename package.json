@@ -5,7 +5,7 @@
   "repository": "git@github.com:bc-fullstack-01/leonardo-m-s-da-silva-backend.git",
   "author": "LeoMSSilva <l.eom1994@hotmail.com> (https://github.com/LeoMSSilva)",
   "scripts": {
-    "start": "node_modules/nodemon/bin/nodemon.js ."
+    "start": "node_modules/nodemon/bin/nodemon.js --es-module-specifier-resolution=node ."
   },
   "type": "module",
   "license": "MIT",
