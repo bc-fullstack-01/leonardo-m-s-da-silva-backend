@@ -25,7 +25,11 @@
 
 # :house: About
 
-**SYSMAP bootcamp** backend module project.
+API project created in **SYSMAP bootcamp** backend module.
+**DotEnv** was used to set environment variables.
+**Http** and **express** were used to create the server.
+**Fs** and **path** were used to work with files and directories.
+**Nodemon** was used to automatically restart the server in the development environment.
 
 ---
 
@@ -76,7 +80,12 @@ Run the following command to start:
 
 # :computer: Techs
 
+- dotenv
+- express
+- fs
 - http
+- nodemon
+- path
 
 ---
 
