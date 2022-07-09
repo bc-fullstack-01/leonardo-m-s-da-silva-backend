@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "src/server.js",
+  "main": "index.js",
   "repository": "git@github.com:bc-fullstack-01/leonardo-m-s-da-silva-backend.git",
   "author": "LeoMSSilva <l.eom1994@hotmail.com> (https://github.com/LeoMSSilva)",
   "scripts": {
@@ -10,6 +10,7 @@
   "type": "module",
   "license": "MIT",
   "dependencies": {
+		"dotenv": "^16.0.1",
     "express": "^4.18.1",
     "nodemon": "^2.0.18"
   }
